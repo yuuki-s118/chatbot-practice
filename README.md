@@ -20,8 +20,8 @@ AIチャットアプリ（Next.js + OpenAI API）
 
 1. このリポジトリをクローン
 
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/yuuki-s118/chatbot-practice.git
+cd chatbot-practice/cretetest
 
 2. 必要なパッケージのインストール
 
