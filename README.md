@@ -54,13 +54,13 @@ Local: http://localhost:3000
 ⸻
 
 💡 補足情報
-	•	/app/page.jsx にチャットUI、/api/chat/route.js にOpenAI API呼び出しロジックがあります。
 
 
-	•	天気・時刻等のリアルタイムデータはChatGPT API経由では取得不可。必要に応じて別API連携可能。
+•	/app/page.jsx にチャットUI、/api/chat/route.js にOpenAI API呼び出しロジックがあります。
 
+•	天気・時刻等のリアルタイムデータはChatGPT API経由では取得不可。必要に応じて別API連携可能。
 
-	•	開発中は http://localhost:3000 または http://localhost:3000/ai-chat にアクセスし、正しいパスを確認してください。
+•	開発中は http://localhost:3000 または http://localhost:3000/ai-chat にアクセスし、正しいパスを確認してください。
 
 ⸻
 
